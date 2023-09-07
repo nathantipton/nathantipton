@@ -1,5 +1,5 @@
 ### Hi there 👋
-[](https://komarev.com/ghpvc/?username=nathantipton)
+![](https://komarev.com/ghpvc/?username=nathantipton)
 
 <!--
 - 🔭 I’m currently working on ...
