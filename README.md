@@ -81,7 +81,7 @@
 <details>
   <summary><span style="font-size: 20px; font-weight:bold">Tools</span></summary>
    <div style="padding: 14px; display: flex; gap: 14px">
-    <img src="" alt="Git" height="40px" />
+    <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" height="40px" />
     <img src="https://asset.brandfetch.io/idZAyF9rlg/id6a3YYV60.svg?updated=1668515567965" alt="GitHub" height="40px" />
     <img src="https://asset.brandfetch.io/idw382nG0m/idUCpm3axR.svg?updated=1668515633804" alt="GitLab" height="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/75px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="40px" />
