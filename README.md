@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Certified Skywarn storm spotter with a love for all things weather!
   <br/><br/>
 
-## Tech Stack
+<!-- ## Tech Stack
 
 <br/>
 <details open>
@@ -109,4 +109,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png" alt="SharePoint" height="40px" />
     <img src="https://cdn.freebiesupply.com/logos/large/2x/highcharts-logo-png-transparent.png" alt="Highcharts" height="40px" />
   </div>
-</details>
+</details> -->
