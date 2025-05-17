@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nathantipton)
 
-- 💼 I'm currently working at [BuddoBot](https://www.buddobot.com/) as a Software Engineer leading R&D.
+- 💼 I'm currently working at Garmin as a Software Engineer.
 - 🏈 I’m currently working on Touchdown Tiles - a football squares game.
   - 🐦 As well as [Feather Finder](https://feather-finder.com?ref=github) a site to find recent bird sightings in your area.
 - 🌱 I’m currently learning SvelteKit and Astro.
